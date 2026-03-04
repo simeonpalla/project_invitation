@@ -1,0 +1,72 @@
+Microsoft Windows [Version 10.0.19045.6937]
+(c) Microsoft Corporation. All rights reserved.
+
+C:\Users\simeo\Downloads\Apps\webapp\project_invitation>npx create-next-app@latest .
+Need to install the following packages:
+create-next-app@16.1.6
+Ok to proceed? (y) y
+The directory project_invitation contains files that could conflict:
+
+  README.md
+
+Either try using a new directory name, or remove the files listed above.
+
+
+C:\Users\simeo\Downloads\Apps\webapp\project_invitation>npx create-next-app@latest .
+√ Would you like to use the recommended Next.js defaults? » Yes, use recommended defaults
+Creating a new Next.js app in C:\Users\simeo\Downloads\Apps\webapp\project_invitation.
+
+Using npm.
+
+Initializing project with template: app-tw
+
+
+Installing dependencies:
+- next
+- react
+- react-dom
+
+Installing devDependencies:
+- @tailwindcss/postcss
+- @types/node
+- @types/react
+- @types/react-dom
+- eslint
+- eslint-config-next
+- tailwindcss
+- typescript
+
+npm WARN EBADENGINE Unsupported engine {
+npm WARN EBADENGINE   package: 'eslint-visitor-keys@5.0.1',
+npm WARN EBADENGINE   required: { node: '^20.19.0 || ^22.13.0 || >=24' },
+npm WARN EBADENGINE   current: { node: 'v20.12.2', npm: '10.5.0' }
+npm WARN EBADENGINE }
+
+added 359 packages, and audited 360 packages in 1m
+
+143 packages are looking for funding
+  run `npm fund` for details
+
+found 0 vulnerabilities
+
+Generating route types...
+✓ Types generated successfully
+
+Success! Created project_invitation at C:\Users\simeo\Downloads\Apps\webapp\project_invitation
+
+
+C:\Users\simeo\Downloads\Apps\webapp\project_invitation>npm install @supabase/supabase-js lucide-react
+npm WARN EBADENGINE Unsupported engine {
+npm WARN EBADENGINE   package: 'eslint-visitor-keys@5.0.1',
+npm WARN EBADENGINE   required: { node: '^20.19.0 || ^22.13.0 || >=24' },
+npm WARN EBADENGINE   current: { node: 'v20.12.2', npm: '10.5.0' }
+npm WARN EBADENGINE }
+
+added 11 packages, and audited 371 packages in 11s
+
+143 packages are looking for funding
+  run `npm fund` for details
+
+found 0 vulnerabilities
+
+C:\Users\simeo\Downloads\Apps\webapp\project_invitation>
